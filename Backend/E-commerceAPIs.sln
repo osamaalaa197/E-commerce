@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-commerce", "E-commerce\E-commerce.csproj", "{F97E79D8-8588-4083-93C3-033BA4C7152D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCore", "AppCore\AppCore.csproj", "{8794C596-4982-4CC7-8BC6-2CA6CE2C3F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEF", "AppEF\AppEF.csproj", "{9C91AE90-55D7-424A-850A-FA26952C5D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97E79D8-8588-4083-93C3-033BA4C7152D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97E79D8-8588-4083-93C3-033BA4C7152D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97E79D8-8588-4083-93C3-033BA4C7152D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97E79D8-8588-4083-93C3-033BA4C7152D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8794C596-4982-4CC7-8BC6-2CA6CE2C3F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8794C596-4982-4CC7-8BC6-2CA6CE2C3F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8794C596-4982-4CC7-8BC6-2CA6CE2C3F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8794C596-4982-4CC7-8BC6-2CA6CE2C3F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C91AE90-55D7-424A-850A-FA26952C5D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C91AE90-55D7-424A-850A-FA26952C5D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C91AE90-55D7-424A-850A-FA26952C5D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C91AE90-55D7-424A-850A-FA26952C5D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F0BFE20-0DD2-4F7A-8E2D-8A1C39F8AA96}
+	EndGlobalSection
+EndGlobal

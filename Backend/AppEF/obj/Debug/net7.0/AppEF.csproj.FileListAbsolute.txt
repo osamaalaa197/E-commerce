@@ -1,0 +1,34 @@
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.csproj.AssemblyReference.cache
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.AssemblyInfoInputs.cache
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.AssemblyInfo.cs
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.csproj.CoreCompileInputs.cache
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\bin\Debug\net7.0\AppEF.deps.json
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\bin\Debug\net7.0\AppEF.runtimeconfig.json
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\bin\Debug\net7.0\AppEF.dll
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\bin\Debug\net7.0\AppEF.pdb
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\bin\Debug\net7.0\AppCore.dll
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\bin\Debug\net7.0\AppCore.pdb
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.csproj.CopyComplete
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.dll
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\refint\AppEF.dll
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.pdb
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\AppEF.genruntimeconfig.cache
+D:\NewFolder\E-commerce_Mobile_App-main\E-commerce_Mobile_App-main\Backend\AppEF\obj\Debug\net7.0\ref\AppEF.dll
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\bin\Debug\net7.0\AppEF.deps.json
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\bin\Debug\net7.0\AppEF.runtimeconfig.json
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\bin\Debug\net7.0\AppEF.dll
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\bin\Debug\net7.0\AppEF.pdb
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\bin\Debug\net7.0\AppCore.dll
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\bin\Debug\net7.0\AppCore.pdb
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.csproj.AssemblyReference.cache
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.AssemblyInfoInputs.cache
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.AssemblyInfo.cs
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.csproj.CoreCompileInputs.cache
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.csproj.CopyComplete
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.dll
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\refint\AppEF.dll
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.pdb
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\AppEF.genruntimeconfig.cache
+C:\Users\Osama\Desktop\New folder\E-commerce\Backend\AppEF\obj\Debug\net7.0\ref\AppEF.dll
